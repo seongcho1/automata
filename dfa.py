@@ -25,7 +25,8 @@ if __name__ == "__main__":
             (2,"a"):2,(2,"b"):2},
            0,
            {0,1})
-  print(repr(D0))
+
+  print(repr(D0), "\n")
 
   print(f'aa:       {D0.run("aa")}')
   print(f'aabbb:    {D0.run("aabbb")}')
