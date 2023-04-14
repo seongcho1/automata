@@ -14,7 +14,9 @@ DFA (Deterministic Finite Automaton)
 
 ![dfa image](images/dfa.png)
 
+0 and 1 -> good state
 
+2 -> bad state
 
 ## testcases
 
