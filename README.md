@@ -18,12 +18,11 @@ DFA (Deterministic Finite Automaton)
 
 ## testcases
 
-aa OK
+| Case            | Result |
+| --------------- | ------ |
+| aa              | OK     |
+| aabbb           | OK     |
+| ba              | KO     |
+| aba             | KO     |
+| ebsilon (empty) | OK     |
 
-aabbb OK
-
-ba KO
-
-aba KO
-
-ebsilon (empty) OK
